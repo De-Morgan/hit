@@ -14,4 +14,4 @@ Number of requests
 -c
 Concurrency level
 -rps
-Requests per second` #A
+Requests per second`
